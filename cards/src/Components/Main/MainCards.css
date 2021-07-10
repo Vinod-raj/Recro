@@ -1,0 +1,10 @@
+html {
+    min-height: 101%;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-height:101%;
+    scroll-behavior: smooth;
+}
